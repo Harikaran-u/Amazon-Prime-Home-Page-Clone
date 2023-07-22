@@ -1,0 +1,19 @@
+.prime-home-cont {
+  background-color: #000000;
+  min-height: 100vh;
+}
+.prime-banner {
+  width: 100%;
+}
+.movies-list-cont {
+  padding: 20px;
+}
+.genre {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 600;
+  color: #ffffff;
+}
+.slider-cont {
+  padding: 30px;
+}
